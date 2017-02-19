@@ -1,0 +1,344 @@
+{
+  "basics": {
+    "name": "Marc Demierre",
+    "label": "Student - Software Engineering",
+    "picture": "https://en.gravatar.com/userimage/13042722/8e69ca3ac34b73fe12eed611355cf824.jpg?size=500",
+    "email": "marc.demierre@gmail.com",
+    "phone": "+41 78 836 44 04",
+    "website": "http://marcdemierre.me",
+    "summary": "Currently completing my Master studies in Software Engineering at HES-SO//Master, Switzerland.",
+    "location": {
+      "postalCode": "1752",
+      "city": "Villars-sur-Glâne",
+      "countryCode": "CH",
+      "region": "Fribourg"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "MarcDemierre",
+        "url": "https://twitter.com/MarcDemierre"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "marcdemierre",
+        "url": "https://www.linkedin.com/in/marcdemierre/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "HumanTech Insitute, HEIA-FR",
+      "position": "Student-Assistant (part time)",
+      "website": "https://humantech.heia-fr.ch",
+      "startDate": "2014-09-01",
+      "endDate": "2015-10-01",
+      "summary": "Development of a tablet application for a research project where relatives of people with Alzheimer had to fill forms regularly. This was done for a study by researchers from another university, allowing them to collect complex daily data without forcing users to fill complex paper forms with lots of conditions.",
+      "highlights": [
+        "Designed an algorithm for complex dynamic questionnaires (changing according to the day of the month, previous answers, user preferences, ...)",
+        "Designed and implemented the database for questionnaires, use data and answers (MySQL)",
+        "Fixed and improved the tablet application, with offline mode and data synchronization (Android)",
+        "Ported existing backend code to a web service (PHP/Laravel)",
+        "Built an Excel export GUI according to researchers' needs (Javascript/AngularJS)",
+        "Conducted UX testing of the application with end-users",
+        "Handled app and data model updates and migrations"
+      ]
+    },
+
+    {
+      "company": "Renault Innovation Silicon Valley",
+      "position": "R&D Intern",
+      "website": "http://renaultsv.com",
+      "startDate": "2015-06-01",
+      "endDate": "2015-08-30",
+      "summary": "Bachelor Thesis: Always-on multi-platform companion system for the driver, analyzing data from the driver, his car and the environnement to provide complete feedback about the current driving conditions. Details subject to NDA."
+    },
+
+    {
+      "company": "Fondation de Fribourg pour la Jeunesse (FFJ)",
+      "position": "IT Consultant (part time)",
+      "website": "http://www.ffj.ch/",
+      "startDate": "2012-09-01",
+      "endDate": "2014-11-01",
+      "summary": "The FFJ is a group of several institutions accompanying Fribourg's children, youth and families in difficult social situations. I worked part-time on IT support and projects for the whole foundation, at the time where the institutions started their merging process.",
+      "highlights": [
+        "Helped social workers in accomplishing their IT-related work faster and more easily",
+        "Provided remote and on-site IT support for all sites",
+        "Maintained the shared IT services and communicated with the IT infrastructure company",
+        "Managed the IT implications of the merger of the different institutions"
+      ]
+    },
+
+  {
+      "company": "Fondation de Fribourg pour la Jeunesse (FFJ)",
+      "position": "Administrative Aide (Civilian service)",
+      "website": "http://www.ffj.ch/",
+      "startDate": "2012-01-01",
+      "endDate": "2012-07-01",
+      "summary": "The FFJ is a group of several institutions accompanying Fribourg's children, youth and families in difficult social situations. I served there for my civilian service in replacement for the military service. At the time, the institutions had not yet merged, but the merger was being prepared.",
+      "highlights": [
+        "Designed, planned and implemented a new structure for shared folders and resources in preparation for a merger",
+        "Provided remote and on-site IT support for all sites",
+        "Completed various administrative and organizational tasks"  
+      ]
+    },
+
+    {
+      "company": "NTT Cyber Solutions Laboratories, Japan",
+      "position": "R&D Intern",
+      "website": "http://www.ntt.co.jp/index_e.html",
+      "startDate": "2010-08-01",
+      "endDate": "2010-12-20",
+      "summary": "NTT Cyber Solutions Laboratories is a large R&D facility which is part of NTT, the largest telecommunication provider in Japan. I worked there as an intern for my last VET year at the EMF. My project was a distributed video analysis server.",
+      "highlights": [
+        "Distributed heavy video analysis between several parallel processes",
+        "Implemented a distributed server prototype (Python)",
+        "Developed a web interface to submit videos and monitor analysis progress (Python/Django)",
+        "Made analysis results available to a Flash client application through a web service (HTTP/JSON)"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "EPFL (through Coursera.org)",
+      "area": "Functional Programming in Scala - Courses 1 & 2",
+      "studyType": "Certified online courses",
+      "startDate": "2016-11-01",
+      "endDate": "2016-12-06",
+      "gpa": "100%",
+      "courses": [
+        "Functional Programming Principles in Scala",
+        "Functional Program Design in Scala"
+      ]
+    },
+    {
+      "institution": "HES-SO//Master",
+      "area": "Software Engineering",
+      "studyType": "Master of Science in Engineering (MSE)",
+      "startDate": "2015-09-15",
+      "endDate": "2017-03-08",
+      "gpa": "TBD",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "School of Engineering and Architecture Fribourg",
+      "area": "Computer Science",
+      "studyType": "Bachelor of Science",
+      "startDate": "2012-09-15",
+      "endDate": "2015-09-01",
+      "gpa": "5.6 / 6.0",
+      "courses": [
+      ]
+    },
+
+    {
+      "institution": "EF Oxford",
+      "area": "English Language",
+      "studyType": "Full-time English course + Cambridge CAE",
+      "startDate": "2011-12-08",
+      "endDate": "2011-10-17",
+      "gpa": "C2 (EFCLT), C2/87% (CAE)",
+      "courses": [
+        "General english",
+        "Vocabulary",
+        "Grammar",
+        "CAE Preparation",
+        "English and the IT industry",
+        "English in the Sciences"
+      ]
+    },
+
+    {
+      "institution": "École des Métiers de Fribourg (EMF)",
+      "area": "Information Technology",
+      "studyType": "Federal Diploma of Vocational Education and Training",
+      "startDate": "2007-08-20",
+      "endDate": "2011-07-31",
+      "gpa": "5.9 / 6.0",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "École des Métiers de Fribourg (EMF)",
+      "area": "Engineering, Architecture and Life Sciences",
+      "studyType": "Federal Vocational Baccalaureate (bilingual FR/DE)",
+      "startDate": "2007-08-20",
+      "endDate": "2011-07-31",
+      "gpa": "5.7 / 6.0",
+      "courses": [
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "SISR Prize 2015",
+      "date": "2015-10-01",
+      "awarder": "Section romande de l’association Suisse d’Informatique (SISR)",
+      "summary": "Best final GPA for the HEIA-FR Bachelor studies in Computer Science"
+    },
+
+    {
+      "title": "Best IT apprentice of the canton of Fribourg",
+      "date": "2011-07-01",
+      "awarder": "State Council of Fribourg",
+      "summary": "Best final GPA for the VET in Information Technology"
+    },
+
+    {
+      "title": "Special EMF prize of the FR State council",
+      "date": "2011-07-01",
+      "awarder": "State Council of Fribourg",
+      "summary": "Best final GPA for the VET at the EMF (all areas)"
+    },
+
+    {
+      "title": "Prize of Mathematics, CO Sarine-Ouest",
+      "date": "2007-07-15",
+      "awarder": "CO Sarine-Ouest",
+      "summary": "Yearly prize awarded by the Mathematics teachers for remarkable results"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Software Engineering",
+      "level": "Advanced",
+      "keywords": [
+        "Java",
+        "Scala",
+        "Python",
+        "JavaScript",
+        "TypeScript",
+        "C#",
+        "PHP",
+        "Docker",
+        "Git",
+        "UML",
+        "Design Patterns",
+        "SOLID",
+        "Continuous Integration"
+      ]
+    },
+    {
+      "name": "Web Development - Frontend",
+      "level": "Advanced",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "jQuery",
+        "AngularJS",
+        "Angular 2",
+        "D3.js"
+      ]
+    },
+
+    {
+      "name": "Web Development - Backend",
+      "level": "Advanced",
+      "keywords": [
+        "Spring Boot",
+        "ASP.NET",
+        "Django",
+        "REST",
+        "Laravel"
+      ]
+    },
+
+    {
+      "name": "Big Data Engineering",
+      "level": "Advanced",
+      "keywords": [
+        "Kafka",
+        "Spark",
+        "Hadoop",
+        "Flink",
+        "Kafka Streams"
+      ]
+    },
+    {
+      "name": "Mobile Development",
+      "level": "Intermediate",
+      "keywords": [
+        "Android",
+        "iOS"
+      ]
+    },
+
+    {
+      "name": "Machine Learning",
+      "level": "Intermediate",
+      "keywords": [
+        "Classical ML models",
+        "Cross-validation",
+        "Jupyter",
+        "Scikit-learn",
+        "Keras",
+        "Spark MLlib"
+      ]
+    },
+
+    {
+      "name": "Cloud Platforms",
+      "level": "Intermediate",
+      "keywords": [
+        "AWS",
+        "OpenStack"
+      ]
+    },
+
+    {
+      "name": "Databases",
+      "level": "Intermediate",
+      "keywords": [
+        "SQL",
+        "Relational algebra",
+        "JDBC",
+        "JPA",
+        "MySQL",
+        "Oracle"
+      ]
+    },
+
+    {
+      "name": "System Development",
+      "level": "Beginner",
+      "keywords": [
+        "C",
+        "C++",
+        "ARM assembly"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "French",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced (C2, CAE Certificate)"
+    },
+
+    {
+      "language": "German",
+      "fluency": "Intermediate (B2, Bilingual Vocational Baccalaureate)"
+    },
+
+    {
+      "language": "Japanese",
+      "fluency": "Basic (A2, JLPT 4 certificate)"
+    }
+  ],
+
+  "references": [
+    {
+      "name": "Philippe Baeriswyl, Teacher, EMF",
+      "reference": "Marc is one of the greatest student I ever met. For his age, he showed an extraordinary capacity to analyze complex situations and break them down into simpler processes. Technical skills are not his only assets, he showed a great capacity to lead a team to the success by empowering its members. When he was in Japan to work in NTT Cyber Solutions Laboratories, he flawlessly integrates the Japanese culture and made a great impression."
+    },
+
+    {
+      "name": "Yoichi Kato, ICT Researcher/Product Designer, NTT Cyber Solutions",
+      "reference": "Marc and I worked for a project of making a prototype of a server-client system. In the project, I noticed he had quite wide knowledge and was a quick learner. The project went much faster than I had expected."
+    }
+  ]
+}
