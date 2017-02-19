@@ -13,8 +13,7 @@
       "countryCode": "CH",
       "region": "Fribourg"
     },
-    "profiles": [
-      {
+    "profiles": [{
         "network": "Twitter",
         "username": "MarcDemierre",
         "url": "https://twitter.com/MarcDemierre"
@@ -27,8 +26,7 @@
     ]
   },
 
-  "work": [
-    {
+  "work": [{
       "company": "HumanTech Insitute, HEIA-FR",
       "position": "Student-Assistant (part time)",
       "website": "https://humantech.heia-fr.ch",
@@ -70,7 +68,7 @@
       ]
     },
 
-  {
+    {
       "company": "Fondation de Fribourg pour la Jeunesse (FFJ)",
       "position": "Administrative Aide (Civilian service)",
       "website": "http://www.ffj.ch/",
@@ -80,7 +78,7 @@
       "highlights": [
         "Designed, planned and implemented a new structure for shared folders and resources in preparation for a merger",
         "Provided remote and on-site IT support for all sites",
-        "Completed various administrative and organizational tasks"  
+        "Completed various administrative and organizational tasks"
       ]
     },
 
@@ -100,8 +98,7 @@
     }
   ],
 
-  "education": [
-    {
+  "education": [{
       "institution": "EPFL (through Coursera.org)",
       "area": "Functional Programming in Scala - Courses 1 & 2",
       "studyType": "Certified online courses",
@@ -120,10 +117,9 @@
       "startDate": "2015-09-15",
       "endDate": "2017-03-08",
       "gpa": "TBD",
-      "courses": [
-      ]
+      "courses": []
     },
-     {
+    {
       "institution": "CISCO Networking Academy",
       "area": "CCNA Routing and Switching",
       "studyType": "Certified courses",
@@ -141,8 +137,7 @@
       "startDate": "2012-09-15",
       "endDate": "2015-09-01",
       "gpa": "5.6 / 6.0",
-      "courses": [
-      ]
+      "courses": []
     },
 
     {
@@ -169,8 +164,7 @@
       "startDate": "2007-08-20",
       "endDate": "2011-07-31",
       "gpa": "5.9 / 6.0",
-      "courses": [
-      ]
+      "courses": []
     },
     {
       "institution": "École des Métiers de Fribourg (EMF)",
@@ -179,13 +173,11 @@
       "startDate": "2007-08-20",
       "endDate": "2011-07-31",
       "gpa": "5.7 / 6.0",
-      "courses": [
-      ]
+      "courses": []
     }
   ],
 
-  "awards": [
-    {
+  "awards": [{
       "title": "SISR Prize 2015",
       "date": "2015-10-01",
       "awarder": "Section romande de l’association Suisse d’Informatique (SISR)",
@@ -213,8 +205,7 @@
       "summary": "Yearly prize awarded by the Mathematics teachers for remarkable results"
     }
   ],
-  "skills": [
-    {
+  "skills": [{
       "name": "Software Engineering",
       "level": "Advanced",
       "keywords": [
@@ -325,8 +316,7 @@
       ]
     }
   ],
-  "languages": [
-    {
+  "languages": [{
       "language": "French",
       "fluency": "Native speaker"
     },
@@ -346,8 +336,7 @@
     }
   ],
 
-  "references": [
-    {
+  "references": [{
       "name": "Philippe Baeriswyl, Teacher, EMF",
       "reference": "Marc is one of the greatest student I ever met. For his age, he showed an extraordinary capacity to analyze complex situations and break them down into simpler processes. Technical skills are not his only assets, he showed a great capacity to lead a team to the success by empowering its members. When he was in Japan to work in NTT Cyber Solutions Laboratories, he flawlessly integrates the Japanese culture and made a great impression."
     },
