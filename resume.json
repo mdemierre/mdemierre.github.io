@@ -26,6 +26,7 @@
       }
     ]
   },
+
   "work": [
     {
       "company": "HumanTech Insitute, HEIA-FR",
@@ -98,6 +99,7 @@
       ]
     }
   ],
+
   "education": [
     {
       "institution": "EPFL (through Coursera.org)",
@@ -119,6 +121,17 @@
       "endDate": "2017-03-08",
       "gpa": "TBD",
       "courses": [
+      ]
+    },
+     {
+      "institution": "CISCO Networking Academy",
+      "area": "CCNA Routing and Switching",
+      "studyType": "Certified courses",
+      "startDate": "2014-08-24",
+      "endDate": "2014-09-08",
+      "courses": [
+        "Introduction to Networks",
+        "Routing and Switching Essentials"
       ]
     },
     {
@@ -170,6 +183,7 @@
       ]
     }
   ],
+
   "awards": [
     {
       "title": "SISR Prize 2015",
