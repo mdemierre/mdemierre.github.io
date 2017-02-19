@@ -282,7 +282,8 @@
       "level": "Intermediate",
       "keywords": [
         "AWS",
-        "OpenStack"
+        "OpenStack",
+        "Docker"
       ]
     },
 
@@ -305,7 +306,8 @@
       "keywords": [
         "C",
         "C++",
-        "ARM assembly"
+        "ARM assembly",
+        "Linux"
       ]
     }
   ],
@@ -316,7 +318,7 @@
     },
     {
       "language": "English",
-      "fluency": "Advanced (C2, CAE Certificate)"
+      "fluency": "Fluent (C2, Cambridge CAE Certificate)"
     },
 
     {
