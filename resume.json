@@ -27,6 +27,12 @@
   },
 
   "work": [{
+      "company": "Swisscom SA",
+      "position": "Software Developer",
+      "website": "https://humantech.heia-fr.ch",
+      "startDate": "2018-01-15"
+    },
+    {
       "company": "HumanTech Insitute, HEIA-FR",
       "position": "Student-Assistant (part time)",
       "website": "https://humantech.heia-fr.ch",
