@@ -29,8 +29,17 @@
   "work": [{
       "company": "Swisscom SA",
       "position": "Software Developer",
-      "website": "https://humantech.heia-fr.ch",
-      "startDate": "2018-01-15"
+      "website": "https://www.swisscom.ch",
+      "startDate": "2018-01-15",
+      "summary": "Work on the Swisscom Data Lake"
+    },
+    {
+      "company": "iCoSyS Institute, HEIA-FR",
+      "position": "Software Developer (part time)",
+      "website": "https://icosys.heia-fr.ch",
+      "startDate": "2017-03-01",
+      "endDate": "2017-06-05",
+      "summary": "Work on various mandates for the institute + assistant for the \"Mobile applications: Android\" course"
     },
     {
       "company": "HumanTech Insitute, HEIA-FR",
