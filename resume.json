@@ -13,15 +13,16 @@
       "countryCode": "CH",
       "region": "Fribourg"
     },
-    "profiles": [{
-        "network": "Twitter",
-        "username": "MarcDemierre",
-        "url": "https://twitter.com/MarcDemierre"
-      },
+    "profiles": [
       {
         "network": "LinkedIn",
         "username": "marcdemierre",
         "url": "https://www.linkedin.com/in/marcdemierre/"
+      },
+      {
+        "network": "GitHub",
+        "username": "mdemierre",
+        "url": "https://github.com/mdemierre"
       }
     ]
   },
@@ -35,9 +36,9 @@
       "summary": "Full-stack web + data engineering. Building and operating the new generation of Billing Analytics application for B2B customers.",
       "description": "The application consists of data pipelines ingesting and transforming data from billing systems, and of a modern Single Page Application where customers can access their bills and interactive analytics on their costs and communication data.",
       "highlights": [
-        "Building and operating data pipelines to ingest and transform data from different internal systems into a unified customer view (Tech: Flink / Kafka / Kubernetes)",
+        "Building and operating data pipelines to ingest and transform data from different internal systems into a unified customer view (Tech: Java 11 / Flink / Kafka / Kubernetes)",
         "Maintaining a query layer for interactive data analysis (Tech: PostgreSQL)",
-        "Developing and operating a GraphQL + REST API and React UI for the customer-facing application (Tech: Spring Boot / GraphQL / ReactJS / Cloud Foundry)",
+        "Developing and operating a GraphQL + REST API and React UI for the customer-facing application (Tech: Java 11 / Spring Boot / GraphQL / ReactJS / Cloud Foundry)",
         "Assisting other teams in providing their data in a standardized way on the company's Big Data Platform"
       ]
     },
@@ -47,7 +48,7 @@
       "website": "https://www.swisscom.ch",
       "startDate": "2018-01-15",
       "endDate": "2020-06-01",
-      "summary": " Building and supporting Swisscom's internal self-service Big Data Platform, based on Open Source technologies. The platform is used by 10s of teams to ingest, transform, store, share, discover and query massive amount of data easily.",
+      "summary": "Building and supporting Swisscom's internal self-service Big Data Platform, based on Open Source technologies. The platform is used by 10s of teams to ingest, transform, store, share, discover and query massive amount of data easily.",
       "highlights": [
         "Building and maintaining the Hadoop-ecosystem services of the platform (HDFS, YARN, Hive, Spark, ...) holding multi-petabyte data and running 24/7 production data pipelines (Tech: HDFS, YARN, Hive, Spark, Linux, Ansible, Python, Bash)",
         "Making the the platform fully self-service by developing a REST API and event-driven microservices orchestrating the platform services in a unified manner, so that teams can use the platform without the platform team being a bottleneck. (Tech: Java 11, SparkJava, Go, Maven, Docker, Jenkins, Kubernetes)",
@@ -56,7 +57,7 @@
       ]
     },
     {
-      "name": "Fondation de Fribourg pour la Jeuness (FFJ)",
+      "name": "Fondation de Fribourg pour la Jeunesse (FFJ)",
       "position": "IT and administrative aide (Civilian service)",
       "website": "https://www.swisscom.ch",
       "startDate": "2017-06-01",
@@ -83,7 +84,7 @@
       ]
     },
     {
-      "company": "HumanTech Insitute, HEIA-FR",
+      "company": "HumanTech Institute, HEIA-FR",
       "position": "Student-Assistant (part time)",
       "website": "https://humantech.heia-fr.ch",
       "startDate": "2014-09-01",
@@ -92,9 +93,9 @@
       "highlights": [
         "Designed an algorithm for complex dynamic questionnaires (changing according to the day of the month, previous answers, user preferences, ...)",
         "Designed and implemented the database for questionnaires, use data and answers (MySQL)",
-        "Fixed and improved the tablet application, with offline mode and data synchronization (Android)",
-        "Ported existing backend code to a web service (PHP/Laravel)",
-        "Built an Excel export GUI according to researchers' needs (Javascript/AngularJS)",
+        "Fixed and improved the tablet application, with offline mode and data synchronization (Java / Android)",
+        "Ported existing backend code to a web service (PHP / Laravel)",
+        "Built an Excel export GUI according to researchers' needs (Javascript / AngularJS)",
         "Conducted UX testing of the application with end-users",
         "Handled app and data model updates and migrations"
       ]
@@ -167,12 +168,12 @@
       ]
     },
     {
-      "institution": "HES-SO//Master",
+      "institution": "HES-SO // Master",
       "area": "Software Engineering",
       "studyType": "Master of Science in Engineering (MSE)",
       "startDate": "2015-09-15",
       "endDate": "2017-03-08",
-      "gpa": "TBD",
+      "gpa": "5.74 / 6.0",
       "courses": []
     },
     {
@@ -233,11 +234,19 @@
     }
   ],
 
-  "awards": [{
-      "title": "SISR Prize 2015",
+  "awards": [
+    {
+      "title": "HES-SO Master Award 2017",
       "date": "2015-10-01",
-      "awarder": "Section romande de l’association Suisse d’Informatique (SISR)",
-      "summary": "Best final GPA for the HEIA-FR Bachelor studies in Computer Science"
+      "awarder": "HES-SO // Master",
+      "summary": "Best GPA for the HES-SO Master of Engineering 2017 promotion"
+    },
+
+    {
+      "title": "SISR Award 2015",
+      "date": "2015-10-01",
+      "awarder": "Section Romande de l'association Suisse d'Informatique (SISR)",
+      "summary": "Best GPA for the HEIA-FR Bachelor studies in Computer Science 2015 promotion"
     },
 
     {
@@ -248,14 +257,14 @@
     },
 
     {
-      "title": "Special EMF prize of the FR State council",
+      "title": "Special EMF award of the FR State council",
       "date": "2011-07-01",
       "awarder": "State Council of Fribourg",
       "summary": "Best final GPA for the VET at the EMF (all areas)"
     },
 
     {
-      "title": "Prize of Mathematics, CO Sarine-Ouest",
+      "title": "Award of Mathematics, CO Sarine-Ouest",
       "date": "2007-07-15",
       "awarder": "CO Sarine-Ouest",
       "summary": "Yearly prize awarded by the Mathematics teachers for remarkable results"
@@ -266,56 +275,58 @@
       "level": "Advanced",
       "keywords": [
         "Java",
-        "Scala",
         "Python",
         "JavaScript",
-        "TypeScript",
-        "C#",
-        "PHP",
-        "Docker",
         "Git",
-        "UML",
-        "Design Patterns",
-        "SOLID",
-        "Continuous Integration"
-      ]
-    },
-    {
-      "name": "Web Development - Frontend",
-      "level": "Advanced",
-      "keywords": [
-        "HTML",
-        "CSS",
-        "jQuery",
-        "AngularJS",
-        "Angular 2",
-        "D3.js"
+        "Docker",
+        "Maven"
       ]
     },
 
     {
-      "name": "Web Development - Backend",
-      "level": "Advanced",
-      "keywords": [
-        "Spring Boot",
-        "ASP.NET",
-        "Django",
-        "REST",
-        "Laravel"
-      ]
-    },
-
-    {
-      "name": "Big Data Engineering",
+      "name": "Data Engineering",
       "level": "Advanced",
       "keywords": [
         "Kafka",
+        "Flink",
+        "Kafka Streams",
         "Spark",
         "Hadoop",
-        "Flink",
-        "Kafka Streams"
+        "SQL",
+        "PostgreSQL",
+        "jOOQ"
       ]
     },
+
+    {
+      "name": "DevOps",
+      "level": "Advanced",
+      "keywords": [
+        "Jenkins",
+        "Prometheus",
+        "Grafana",
+        "Splunk",
+        "Kubernetes",
+        "CloudFoundry",
+        "Ansible",
+        "Linux"
+      ]
+    },
+
+    {
+      "name": "Web Development",
+      "level": "Advanced",
+      "keywords": [
+        "REST",
+        "GraphQL",
+        "Spring Boot",
+        "SparkJava",
+        "HTML",
+        "CSS",
+        "ReactJS"
+      ]
+    },
+
     {
       "name": "Mobile Development",
       "level": "Intermediate",
@@ -339,34 +350,10 @@
     },
 
     {
-      "name": "Cloud Platforms",
-      "level": "Intermediate",
-      "keywords": [
-        "AWS",
-        "OpenStack",
-        "Docker"
-      ]
-    },
-
-    {
-      "name": "Databases",
-      "level": "Intermediate",
-      "keywords": [
-        "SQL",
-        "Relational algebra",
-        "JDBC",
-        "JPA",
-        "MySQL",
-        "Oracle"
-      ]
-    },
-
-    {
       "name": "System Development",
       "level": "Beginner",
       "keywords": [
         "C",
-        "C++",
         "ARM assembly",
         "Linux"
       ]
@@ -393,12 +380,12 @@
   ],
 
   "references": [{
-      "name": "Philippe Baeriswyl, Teacher, EMF",
+      "name": "Philippe Baeriswyl, Teacher, EMF (on LinkedIn)",
       "reference": "Marc is one of the greatest student I ever met. For his age, he showed an extraordinary capacity to analyze complex situations and break them down into simpler processes. Technical skills are not his only assets, he showed a great capacity to lead a team to the success by empowering its members. When he was in Japan to work in NTT Cyber Solutions Laboratories, he flawlessly integrates the Japanese culture and made a great impression."
     },
 
     {
-      "name": "Yoichi Kato, ICT Researcher/Product Designer, NTT Cyber Solutions",
+      "name": "Yoichi Kato, ICT Researcher/Product Designer, NTT Cyber Solutions (on LinkedIn)",
       "reference": "Marc and I worked for a project of making a prototype of a server-client system. In the project, I noticed he had quite wide knowledge and was a quick learner. The project went much faster than I had expected."
     }
   ]
