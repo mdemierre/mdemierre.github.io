@@ -3,10 +3,9 @@
   "version": "1.0.0",
   "description": "My website",
   "dependencies": {
-    "jsonresume-theme-eloquent": "4.0.0",
-    "resume-cli": "0.4.19"
+    "jsonresume-theme-eloquent": "^4.1.0",
+    "resume-cli": "^3.0.4"
   },
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mdemierre/mdemierre.github.io.git"
