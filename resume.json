@@ -1,11 +1,12 @@
 {
+  "$schema": "https://json.schemastore.org/resume.json",
   "basics": {
     "name": "Marc Demierre",
-    "label": "Software Developer @ Swisscom",
+    "label": "Software Engineer @ Swisscom",
     "picture": "https://en.gravatar.com/userimage/13042722/8e69ca3ac34b73fe12eed611355cf824.jpg?size=500",
     "email": "marc.demierre@gmail.com",
     "website": "https://www.marcdemierre.me",
-    "summary": "Software Developer @ Swisscom, Switzerland.",
+    "summary": "Passionate about Data Engineering, DevOps practices and cloud-native development. Building things end-to-end (including operations) using Open Source technologies.",
     "location": {
       "postalCode": "1752",
       "city": "Villars-sur-Glâne",
@@ -25,20 +26,61 @@
     ]
   },
 
-  "work": [{
-      "company": "Swisscom SA",
-      "position": "Software Developer, Big Data Platform",
+  "work": [
+    {
+      "name": "Swisscom SA",
+      "position": "Software Engineer, Billing Analytics",
       "website": "https://www.swisscom.ch",
       "startDate": "2018-01-15",
-      "summary": "Work on the Swisscom Data Lake"
+      "summary": "Full-stack web + data engineering. Building and operating the new generation of Billing Analytics application for B2B customers.",
+      "description": "The application consists of data pipelines ingesting and transforming data from billing systems, and of a modern Single Page Application where customers can access their bills and interactive analytics on their costs and communication data.",
+      "highlights": [
+        "Building and operating data pipelines to ingest and transform data from different internal systems into a unified customer view (Tech: Flink / Kafka / Kubernetes)",
+        "Maintaining a query layer for interactive data analysis (Tech: PostgreSQL)",
+        "Developing and operating a GraphQL + REST API and React UI for the customer-facing application (Tech: Spring Boot / GraphQL / ReactJS / Cloud Foundry)",
+        "Assisting other teams in providing their data in a standardized way on the company's Big Data Platform"
+      ]
+    },
+    {
+      "name": "Swisscom SA",
+      "position": "Software Engineer, Big Data Platform",
+      "website": "https://www.swisscom.ch",
+      "startDate": "2018-01-15",
+      "endDate": "2020-06-01",
+      "summary": " Building and supporting Swisscom's internal self-service Big Data Platform, based on Open Source technologies. The platform is used by 10s of teams to ingest, transform, store, share, discover and query massive amount of data easily.",
+      "highlights": [
+        "Building and maintaining the Hadoop-ecosystem services of the platform (HDFS, YARN, Hive, Spark, ...) holding multi-petabyte data and running 24/7 production data pipelines (Tech: HDFS, YARN, Hive, Spark, Linux, Ansible, Python, Bash)",
+        "Making the the platform fully self-service by developing a REST API and event-driven microservices orchestrating the platform services in a unified manner, so that teams can use the platform without the platform team being a bottleneck. (Tech: Java 11, SparkJava, Go, Maven, Docker, Jenkins, Kubernetes)",
+        "Maintaining, monitoring and performing on-call duties for more than 100 servers of the platform thanks to Infrastructure-as-Code (IaC), and centralized monitoring and logging (Tech: Prometheus, Splunk, Grafana)",
+        "As security champion, promoting security best practices in my team and the company and making sure our projects take security and compliance into account from the start"
+      ]
+    },
+    {
+      "name": "Fondation de Fribourg pour la Jeuness (FFJ)",
+      "position": "IT and administrative aide (Civilian service)",
+      "website": "https://www.swisscom.ch",
+      "startDate": "2017-06-01",
+      "endDate": "2018-01-01",
+      "summary": "Foundation offering foster homes and pre-apprenticeships for the youth. IT support and administration + various administrative tasks.",
+      "highlights": [
+        "Migration of the accounting and management software of the whole institution",
+        "Windows System administration",
+        "IT Support (levels 1 and 2)",
+        "Support to the board for IT and telecommunication related decision making"
+      ]
     },
     {
       "company": "iCoSyS Institute, HEIA-FR",
-      "position": "Software Developer (part time)",
+      "position": "R&D Software Engineer",
       "website": "https://icosys.heia-fr.ch",
       "startDate": "2017-03-01",
       "endDate": "2017-06-05",
-      "summary": "Work on various mandates for the institute + assistant for the \"Mobile applications: Android\" course"
+      "summary": "Work on various mandates for the iCoSys institute + assistant for the \"Mobile applications: Android\" course",
+      "highlights": [
+        "Port of a mobile « Computer Vision » application from Android to iOS (Tech: iOS / Swift / Objective-C / C++ / OpenCV)",
+        "Integration of a thermal video camera for traffic monitoring with two IoT platforms (Tech: C / WebSockets / NodeJS / TypeScript)",
+        "Teacher Assistant for the « Mobile Applications: Android » undergrad course (labs design and supervision, marking, assistance to students)"
+      ]
     },
     {
       "company": "HumanTech Insitute, HEIA-FR",
