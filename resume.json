@@ -1,8 +1,8 @@
 {
-  "$schema": "https://json.schemastore.org/resume.json",
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
     "name": "Marc Demierre",
-    "label": "Software Engineer @ Swisscom",
+    "label": "Software Engineer",
     "picture": "https://en.gravatar.com/userimage/13042722/8e69ca3ac34b73fe12eed611355cf824.jpg?size=500",
     "email": "marc.demierre@gmail.com",
     "website": "https://www.marcdemierre.me",
@@ -29,10 +29,19 @@
 
   "work": [
     {
+      "name": "Marc Demierre Software Engineering",
+      "position": "Freelance Software Engineer (~20%)",
+      "startDate": "2021-06-01",
+      "summary": "Specialties: Full-stack web development & data projects",
+      "highlights": [
+        "Simon&Josef - Full stack web development of an IT solution for hoteliers. (Tech: Django / PostgreSQL / Heroku)"
+      ]
+    },
+    {
       "name": "Swisscom SA",
-      "position": "Software Engineer, Billing Analytics",
+      "position": "Software Engineer, Billing Analytics (80%)",
       "website": "https://www.swisscom.ch",
-      "startDate": "2018-01-15",
+      "startDate": "2020-06-01",
       "summary": "Full-stack web + data engineering. Building and operating the new generation of Billing Analytics application for B2B customers.",
       "description": "The application consists of data pipelines ingesting and transforming data from billing systems, and of a modern Single Page Application where customers can access their bills and interactive analytics on their costs and communication data.",
       "highlights": [
