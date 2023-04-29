@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mdemierre/mdemierre.github.io/issues"
   },
+  "scripts": {
+    "build": "resume export --theme jsonresume-theme-eloquent index.html"
+  },
   "homepage": "https://github.com/mdemierre/mdemierre.github.io#readme"
 }
