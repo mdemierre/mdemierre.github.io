@@ -4,7 +4,7 @@
   "description": "My website",
   "dependencies": {
     "jsonresume-theme-eloquent": "^4.1.0",
-    "resume-cli": "^3.0.5"
+    "resume-cli": "^3.0.8"
   },
   "repository": {
     "type": "git",
