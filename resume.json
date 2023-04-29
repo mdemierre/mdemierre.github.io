@@ -3,7 +3,7 @@
   "basics": {
     "name": "Marc Demierre",
     "label": "Software Engineer",
-    "picture": "https://en.gravatar.com/userimage/13042722/8e69ca3ac34b73fe12eed611355cf824.jpg?size=500",
+    "picture": "https://s.gravatar.com/avatar/f490db9ae337d9a53632c2325046b618?s=500",
     "email": "marc.demierre@gmail.com",
     "website": "https://www.marcdemierre.me",
     "summary": "Passionate about Data Engineering, DevOps practices and cloud-native development. Building things end-to-end (including operations) using Open Source technologies.",
@@ -26,8 +26,18 @@
       }
     ]
   },
-
   "work": [
+    {
+      "company": "Computer science and communication systems faculty, HEIA-FR",
+      "website": "https://www.heia-fr.ch/en/education/bachelor/computer-science-and-communication-systems/",
+      "position": "Assistant Lecturer UAS (Contractor)",
+      "startDate": "2022-08-01",
+      "summary": "Teaching the undergraduate 3rd year course \"Advanced Data Management - Distributed Data Processing\" for the Data Engineering specialization.",
+      "highlights": [
+        "Designing and building the new course",
+        "Teaching (3 periods / week)"
+      ]
+    },
     {
       "company": "Marc Demierre Software Engineering",
       "position": "Freelance Software Engineer (~20%)",
@@ -109,7 +119,6 @@
         "Handled app and data model updates and migrations"
       ]
     },
-
     {
       "company": "Renault Innovation Silicon Valley",
       "position": "R&D Intern",
@@ -118,7 +127,6 @@
       "endDate": "2015-08-30",
       "summary": "Bachelor Thesis: Always-on multi-platform companion system for the driver, analyzing data from the driver, his car and the environnement to provide complete feedback about the current driving conditions. Details subject to NDA."
     },
-
     {
       "company": "Fondation de Fribourg pour la Jeunesse (FFJ)",
       "position": "IT Consultant (part time)",
@@ -133,7 +141,6 @@
         "Managed the IT implications of the merger of the different institutions"
       ]
     },
-
     {
       "company": "Fondation de Fribourg pour la Jeunesse (FFJ)",
       "position": "Administrative Aide (Civilian service)",
@@ -147,7 +154,6 @@
         "Completed various administrative and organizational tasks"
       ]
     },
-
     {
       "company": "NTT Cyber Solutions Laboratories, Japan",
       "position": "R&D Intern",
@@ -163,7 +169,6 @@
       ]
     }
   ],
-
   "education": [
     {
       "institution": "EPFL (through Coursera.org)",
@@ -206,7 +211,6 @@
       "gpa": "5.6 / 6.0",
       "courses": []
     },
-
     {
       "institution": "EF Oxford",
       "area": "English Language",
@@ -223,7 +227,6 @@
         "English in the Sciences"
       ]
     },
-
     {
       "institution": "École des Métiers de Fribourg (EMF)",
       "area": "Information Technology",
@@ -243,7 +246,6 @@
       "courses": []
     }
   ],
-
   "awards": [
     {
       "title": "HES-SO Master Award 2017",
@@ -251,28 +253,24 @@
       "awarder": "HES-SO // Master",
       "summary": "Best GPA for the HES-SO Master of Engineering 2017 promotion"
     },
-
     {
       "title": "SISR Award 2015",
       "date": "2015-10-01",
       "awarder": "Section Romande de l'association Suisse d'Informatique (SISR)",
       "summary": "Best GPA for the HEIA-FR Bachelor studies in Computer Science, 2015 promotion"
     },
-
     {
       "title": "Best IT apprentice of the canton of Fribourg",
       "date": "2011-07-01",
       "awarder": "State Council of Fribourg",
       "summary": "Best GPA of FR state for the VET in Information Technology, 2011 promotion"
     },
-
     {
       "title": "Special EMF award of the FR State council",
       "date": "2011-07-01",
       "awarder": "State Council of Fribourg",
       "summary": "Best GPA for the VET at the EMF, all sections, 2011 promotion"
     },
-
     {
       "title": "Award of Mathematics, CO Sarine-Ouest",
       "date": "2007-07-15",
@@ -284,9 +282,15 @@
     {
       "name": "Software Engineering",
       "level": "Advanced",
-      "keywords": ["Java", "Python", "JavaScript", "Git", "Docker", "Maven"]
+      "keywords": [
+        "Java",
+        "Python",
+        "JavaScript",
+        "Git",
+        "Docker",
+        "Maven"
+      ]
     },
-
     {
       "name": "Data Engineering",
       "level": "Advanced",
@@ -301,7 +305,6 @@
         "jOOQ"
       ]
     },
-
     {
       "name": "DevOps",
       "level": "Advanced",
@@ -316,7 +319,6 @@
         "Linux"
       ]
     },
-
     {
       "name": "Web Development",
       "level": "Advanced",
@@ -330,13 +332,14 @@
         "ReactJS"
       ]
     },
-
     {
       "name": "Mobile Development",
       "level": "Intermediate",
-      "keywords": ["Android", "iOS"]
+      "keywords": [
+        "Android",
+        "iOS"
+      ]
     },
-
     {
       "name": "Machine Learning",
       "level": "Intermediate",
@@ -349,11 +352,14 @@
         "Spark MLlib"
       ]
     },
-
     {
       "name": "System Development",
       "level": "Beginner",
-      "keywords": ["C", "ARM assembly", "Linux"]
+      "keywords": [
+        "C",
+        "ARM assembly",
+        "Linux"
+      ]
     }
   ],
   "languages": [
@@ -365,24 +371,20 @@
       "language": "English",
       "fluency": "Fluent (C2, Cambridge CAE Certificate)"
     },
-
     {
       "language": "German",
       "fluency": "Intermediate (B2, Bilingual Vocational Baccalaureate)"
     },
-
     {
       "language": "Japanese",
       "fluency": "Basic (A2, JLPT 4 certificate)"
     }
   ],
-
   "references": [
     {
       "name": "Philippe Baeriswyl, Teacher, EMF (on LinkedIn)",
       "reference": "Marc is one of the greatest student I ever met. For his age, he showed an extraordinary capacity to analyze complex situations and break them down into simpler processes. Technical skills are not his only assets, he showed a great capacity to lead a team to the success by empowering its members. When he was in Japan to work in NTT Cyber Solutions Laboratories, he flawlessly integrates the Japanese culture and made a great impression."
     },
-
     {
       "name": "Yoichi Kato, ICT Researcher/Product Designer, NTT Cyber Solutions (on LinkedIn)",
       "reference": "Marc and I worked for a project of making a prototype of a server-client system. In the project, I noticed he had quite wide knowledge and was a quick learner. The project went much faster than I had expected."
